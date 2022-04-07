@@ -1,7 +1,11 @@
 ---
-layout: post
+layout: posts
 title:  "Hello World"
 author_profile: true
+tags:
+  - test
+categories:
+  - Test
 ---
 
 # Welcome

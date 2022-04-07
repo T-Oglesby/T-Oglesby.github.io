@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tableau and Python enthusiast. *Star Wars, Star Trek, Doctor Who Fan*"
   location         : "USA"
-  email            :
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -287,4 +287,4 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
